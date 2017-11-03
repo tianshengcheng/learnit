@@ -1,1 +1,1 @@
-Git is a version control sysytem Git is free sofeware
+mode Git is a version control sysytem Git is free sofeware
